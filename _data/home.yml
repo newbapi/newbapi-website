@@ -1,0 +1,108 @@
+navbar_entries:
+  - title: Docs
+    url: newbapi-doc
+  - title: Blog
+    url: blog
+  - title: About
+    url: about
+  - title: RapidAPI.com
+    url: https://english.api.rakuten.net/user/newbAPIOfficial
+  # - title: API Geolocation
+  #   url: blog
+  
+  # - title: Server Status
+  #   url: blog
+  # - title: website
+  #   url: https://www.abhinav.co
+
+project_entries:
+  - title: Word Censor
+    url: https://english.api.rakuten.net/newbAPIOfficial/api/word-censor-with-reporting
+    desc: "The Word Censor API is a powerful tool that allows you to censor bad words. It has a simple RESTful API with an easy to use interface. Simply add the word to be censored, and it will be replaced with a set of asterisks (or any Characters)."
+
+  - title: QRcode Generator
+    url: https://english.api.rakuten.net/newbAPIOfficial/api/qrcodesvc-qrcode-generator
+    desc: "QRcodesvc is a powerful QRcode generator that can be used to generate high-quality QR codes for any use case. It is the only API that supports all major formats: PNG, PDF, EPS, and SVG."
+
+  # - title: Project 3
+  #   url: post-example-with-headings-and-toc
+  #   desc: You can control visibility from _config.yml file
+
+  # - title: Project 4
+  #   url: language-tests
+  #   desc: This project uses highlight markup, configured in _data/home.yml
+  #   highlight: WIP
+
+  # - title: Project 5
+  #   url: overview-post
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+footer_entries:
+  # - title: abhinav's homepage
+  #   url: https://www.abhinav.co
+
+  # - title: twitter
+  #   url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/newbapi
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
