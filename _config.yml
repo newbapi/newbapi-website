@@ -3,7 +3,7 @@ author: NewbAPI
 url: https://www.newbapi.com # root address of the site
 description: 
 > # description of the site (multiple lines allowed)
-  NewbAPI is a free API that provides 1K requests, with no hidden fees. It's perfect for class projects, hackathons, and more.
+  Perfect for beginners and experts alike. With a free plan that includes 1,000 requests, it's easy to get started with a class project or hackathon.
 
 permalink: /:slug
 
